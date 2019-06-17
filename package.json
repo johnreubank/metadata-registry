@@ -1,7 +1,7 @@
 {
   "name": "metadata-registry",
-  "version": "1.0.0",
-  "description": "A registry that allows you to stores class and property metadata",
+  "version": "1.0.1",
+  "description": "A registry that allows you to store class and property metadata",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
